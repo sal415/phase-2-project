@@ -5,7 +5,9 @@ import './App.css'
 function App() {
   const [sneakers, setSneakers] = useState([])
 
-  
+  // // sites I used
+  // https://www.self.com/story/self-sneaker-awards-2022 
+  // https://www.stadiumgoods.com/en-us/article/best-sneakers-2022-so-far
 
 
 useEffect (() => {
